@@ -140,7 +140,7 @@ angular
               clientType: 'ios'
             }, {
               label: "Cordova",
-              iconClass: 'Cordova',
+              iconClass: 'icon-cordova',
               clientType: 'Cordova'
             }];
 
